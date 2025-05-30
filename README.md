@@ -11,4 +11,4 @@ This repository contains a Python script used to extract, clean, and classify me
 ## Usage
 To run the script, simply:
 ```bash
-python classifier.py
+python literature_classifier.py
